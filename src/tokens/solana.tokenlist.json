@@ -1,9 +1,18 @@
 {
-  "chainId": 101,
-  "address": "DzLkpcFWtZnex4WmmwUmHKstu3WQBqmQxu1tcm3YqJ9t",
-  "symbol": "AIOR",
-  "name": "AIORA",
-  "decimals": 9,
-  "logoURI": "https://bafybeic3aptaavazjzng6ftwi2tn43adav5ksvk6xmoawcvcfmmctumxma.ipfs.w3s.link/4b24795b-a96c-491b-9395-29862a66e9f9.jpg",
-  "tags": ["utility-token", "ai", "blockchain"]
+  "name": "Solana Token List",
+  "tags": {},
+  "tokens": []
+    {
+      "chainId": 101,
+      "address": "DzLkpcFWtZnez4WmmUMkHstu3W0BQqmQxultCm3YqJ9t",
+      "symbol": "AIOR",
+      "name": "AIORA",
+      "decimals": 9,
+      "logoURI": "https://bafybeic3aptavajzng6ftwi2tn43adav5ksvk6xmoavccfmmctumxma.ipfs.w3s.link/4b24795b-a96c-491b-9395-29862a66e9f9.jpg",
+      "tags": ["utility-token", "ai", "blockchain"]
+    }
+  ]
 }
+
+
+
